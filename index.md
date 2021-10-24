@@ -11,6 +11,10 @@ Fu Jen Catholic University, New Taipei City, Taiwan
 * Nutritional Science, 2018-2022
 * International Medical Translation Program, 2018-2022
 ```
+Kang Chiao Bilingual School, New Taipei City, Taiwan
+```markdown
+* Secondary Program, 2015-2018
+```
 
 
 ### Experience
