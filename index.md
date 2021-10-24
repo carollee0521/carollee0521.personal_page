@@ -4,9 +4,10 @@ You can use the [editor on GitHub](https://github.com/carollee0521/hsinyilee.per
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Fu Jen Catholic University, New Taipei City, Taiwan
 
 ```markdown
 Syntax highlighted code block
