@@ -6,11 +6,14 @@
 ### Education
 
 Fu Jen Catholic University, New Taipei City, Taiwan
+* Restaurant and Hotel Institutional Management, 2017-2022
+* Nutritional Science, 2018-2022
+* International Medical Translation Program, 2018-2022
 
 ```markdown
-Restaurant and Hotel Institutional Management, 2017-2022
-Nutritional Science, 2018-2022
-International Medical Translation Program, 2018-2022
+* Restaurant and Hotel Institutional Management, 2017-2022
+* Nutritional Science, 2018-2022
+* International Medical Translation Program, 2018-2022
 
 ```
 
@@ -18,8 +21,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Experience
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carollee0521/hsinyilee.personal_page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Changhua Christian Hospital, Internship, 2021.08-2022.02
+* Taipei City Hospital (Zhuogxing Branch), Translator, 2020.07
+* 
 
-### Support or Contact
+### Certifications
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
