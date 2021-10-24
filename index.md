@@ -6,25 +6,24 @@
 ### Education
 
 Fu Jen Catholic University, New Taipei City, Taiwan
-* Restaurant and Hotel Institutional Management, 2017-2022
-* Nutritional Science, 2018-2022
-* International Medical Translation Program, 2018-2022
-
 ```markdown
 * Restaurant and Hotel Institutional Management, 2017-2022
 * Nutritional Science, 2018-2022
 * International Medical Translation Program, 2018-2022
-
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Experience
-
-* Changhua Christian Hospital, Internship, 2021.08-2022.02
+```markdown
+* Changhua Christian Hospital, Dietetic Intern, 2021.08-2022.02
 * Taipei City Hospital (Zhuogxing Branch), Translator, 2020.07
-* 
+* Sapporo Prince Hotel, Rooms Department Intern, 2019.07-2019.09
+* Sheraton Grand Taipei Hotel, Ball Room Intern, 2018.02-2018.08
+* Grand Hyatt Taipei, Ball Room Intern, 2017.10-2018.01
+```
 
-### Certifications
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Volunteer
+```markdown
+* Taipei Veterans General Hospital, Dietetics and Nutrition Department, 2021.01
+* Wu-Lu Elementary School Service Team, English Teacher, 2014.07-2019.01
+```
