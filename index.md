@@ -1,35 +1,22 @@
-## Welcome to GitHub Pages :)
+## Welcome to Carol Lee's Personal Page :)
 
-You can use the [editor on GitHub](https://github.com/carollee0521/hsinyilee.personal_page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[link to Facebook](https://www.facebook.com/carollee0521/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 Fu Jen Catholic University, New Taipei City, Taiwan
 
 ```markdown
-Syntax highlighted code block
+Restaurant and Hotel Institutional Management, 2017-2022
+Nutritional Science, 2018-2022
+International Medical Translation Program, 2018-2022
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Experience
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carollee0521/hsinyilee.personal_page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
